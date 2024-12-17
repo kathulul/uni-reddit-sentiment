@@ -1,1 +1,1 @@
-# uni-reddit-sentiment
+reddit scraper for sentiment analysis of universities
